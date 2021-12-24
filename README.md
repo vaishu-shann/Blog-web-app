@@ -18,7 +18,7 @@ Home Page:
 
 Post Detail Page:
 
-
+![Capture2](https://user-images.githubusercontent.com/52348398/147325700-a0417091-1258-4dd8-917e-d0f03f59c394.PNG)
 
 
 Author Detail page:
