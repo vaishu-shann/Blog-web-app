@@ -13,6 +13,7 @@ Sign-In page:
 
 Home Page:
 
+![Capture3](https://user-images.githubusercontent.com/52348398/147325652-b60ccb21-bc47-4ae8-bc60-463720140319.PNG)
 
 
 Post Detail Page:
