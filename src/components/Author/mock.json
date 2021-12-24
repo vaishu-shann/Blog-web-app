@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "img":"https://images.pexels.com/photos/139829/pexels-photo-139829.jpeg?cs=srgb&dl=pexels-thorn-yang-139829.jpg&fm=jpg",
+        "author":"Author : vaishnavi",
+        "address":"660 N. Capitol St. NW, Washington, DC 20001",
+        "email" :"vaishnavi@gmail.com"
+    
+    },
+    {
+        "id":1,
+        "img":"https://images.pexels.com/photos/239324/pexels-photo-239324.jpeg?cs=srgb&dl=pexels-leah-kelley-239324.jpg&fm=jpg",
+        "author":"Author : April",
+        "address":"Ellm St, Washington, DC 35451",
+        "email" :"April@gmail.com"
+    },
+    { 
+        "id":1,
+        "img":"https://images.pexels.com/photos/139829/pexels-photo-139829.jpeg?cs=srgb&dl=pexels-thorn-yang-139829.jpg&fm=jpg",
+        "author":"Author : vaishnavi",
+        "address":"660 N. Capitol St. NW, Washington, DC 20001",
+        "email" :"vaishnavi@gmail.com"
+    },
+    { "id":1,
+        "img":"https://images.pexels.com/photos/139829/pexels-photo-139829.jpeg?cs=srgb&dl=pexels-thorn-yang-139829.jpg&fm=jpg",
+        "author":"Author : vaishnavi",
+        "address":"660 N. Capitol St. NW, Washington, DC 20001",
+        "email" :"vaishnavi@gmail.com"
+    },
+    {
+        "id":1,
+        "img":"https://images.pexels.com/photos/139829/pexels-photo-139829.jpeg?cs=srgb&dl=pexels-thorn-yang-139829.jpg&fm=jpg",
+        "author":"Author : vaishnavi",
+        "address":"660 N. Capitol St. NW, Washington, DC 20001",
+        "email" :"vaishnavi@gmail.com"
+    },
+    {
+        "id":1,
+        "img":"https://images.pexels.com/photos/139829/pexels-photo-139829.jpeg?cs=srgb&dl=pexels-thorn-yang-139829.jpg&fm=jpg",
+        "author":"Author : vaishnavi",
+        "address":"660 N. Capitol St. NW, Washington, DC 20001",
+        "email" :"vaishnavi@gmail.com"
+    }
+]
