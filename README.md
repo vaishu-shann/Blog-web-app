@@ -22,3 +22,5 @@ Post Detail Page:
 
 
 Author Detail page:
+
+![Capture1](https://user-images.githubusercontent.com/52348398/147325763-f70b1b8d-8839-40e8-a748-6958762698e8.PNG)
