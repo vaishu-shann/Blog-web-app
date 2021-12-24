@@ -24,3 +24,4 @@ Post Detail Page:
 
 Author Detail page:
 
+![ss3](https://user-images.githubusercontent.com/52348398/147328117-d22e6cdf-1162-4a82-a60d-c1c653c48d6d.PNG)
