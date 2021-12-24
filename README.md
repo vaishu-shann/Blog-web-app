@@ -5,3 +5,17 @@
 NOTE: You must enter your environmental variables for this to work correctly.
 
 *For environment variables : https://manage.auth0.com/ 
+
+Sign-In page:
+
+
+Home Page:
+
+
+
+Post Detail Page:
+
+
+
+
+Author Detail page:
