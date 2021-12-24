@@ -22,7 +22,7 @@ export default function PostPage() {
           </div>
         </h1>
         <div className="singlePostInfo">
-            <Link>
+            <Link to='/author'>
           <span>
            {item.author}
           </span>
