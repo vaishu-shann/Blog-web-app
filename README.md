@@ -19,7 +19,7 @@ Home Page:
 
 Post Detail Page:
 
-
+![ss2](https://user-images.githubusercontent.com/52348398/147328057-6127377e-2bcd-469c-9126-995d85f1b122.PNG)
 
 
 Author Detail page:
