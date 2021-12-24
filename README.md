@@ -25,3 +25,9 @@ Post Detail Page:
 Author Detail page:
 
 ![ss3](https://user-images.githubusercontent.com/52348398/147328117-d22e6cdf-1162-4a82-a60d-c1c653c48d6d.PNG)
+
+
+Author list page:
+
+
+![Capture](https://user-images.githubusercontent.com/52348398/147328956-e340c874-18f9-4991-9e7f-aa1dc3e0af55.PNG)
